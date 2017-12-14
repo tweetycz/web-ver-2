@@ -1,0 +1,2 @@
+class TeacherAssingment < ApplicationRecord
+end
