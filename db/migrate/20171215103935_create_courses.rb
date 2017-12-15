@@ -5,7 +5,7 @@ class CreateCourses < ActiveRecord::Migration[5.1]
       t.string :code
 
       t.string :language
-      t.string :studyt_ype
+      t.string :study_type
 
       t.timestamps
     end
