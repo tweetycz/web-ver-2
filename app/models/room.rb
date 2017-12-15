@@ -3,4 +3,5 @@ class Room < ApplicationRecord
   belongs_to :building
   validates :title, presence: true
   validates :code, presence: true
+
 end
