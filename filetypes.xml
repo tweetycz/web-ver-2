@@ -2,6 +2,8 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="gd" type="PLAIN_TEXT" />
+      <mapping pattern="stanek" type="Ruby" />
+      <mapping pattern="vystaviste" type="Ruby" />
     </extensionMap>
   </component>
 </application>
